@@ -23,6 +23,19 @@ body {
 
 .header__offer {
 	padding-left: 100px;
+	display: flex;
+}
+
+.press_but {
+	display: flex;
+	padding: 40px;
+	justify-content: space-around;
+}
+
+.Text_of_the_offer {
 	
 }
 
+a {
+	color: black;
+}
