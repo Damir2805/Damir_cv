@@ -39,6 +39,7 @@ body {
 	display: flex;
 	padding: 80px 40px;
 	justify-content: space-around;
+	height: 7vh;
 }
 
 a {
@@ -56,7 +57,4 @@ a:hover {
 	height: 7vh;
 }
 
-.button {
-	width: 20vw;
-	height: 7vh;
-}
+
