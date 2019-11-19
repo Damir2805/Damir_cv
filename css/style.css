@@ -43,4 +43,20 @@ body {
 
 a {
 	color: black;
+	transition-duration: 0.7s;
+}
+
+a:hover {
+	background-color: white;
+	border-color: black;
+}
+
+.header__navbar_menu_button {
+	width: 12vw;
+	height: 7vh;
+}
+
+.button {
+	width: 20vw;
+	height: 7vh;
 }
