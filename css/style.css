@@ -48,13 +48,34 @@ a {
 }
 
 a:hover {
-	background-color: white;
+	background-color: #FFFF00;
 	border-color: black;
+	color: red;
 }
 
 .header__navbar_menu_button {
 	width: 12vw;
 	height: 7vh;
+}
+
+.whyme {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: center;
+}
+
+.paragraph {
+	width: 70%;
+	margin: 30px;	
+}
+
+p {
+	text-align: center;
+}
+
+.button {
+	justify-content: center;
 }
 
 
